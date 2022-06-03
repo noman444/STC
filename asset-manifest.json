@@ -1,0 +1,29 @@
+{
+    "files": {
+        "main.css": "static/css/main.39407335.css",
+        "main.js": "static/js/main.e23979db.js",
+        "static/media/resume.pdf": "static/media/resume.944ae2c2747f86318de8.pdf",
+        "static/media/Binace.png": "static/media/Binace.e44a0a9004852aa54fad.png",
+        "static/media/sidebar.png": "static/media/sidebar.de505e4194fa2680877a.png",
+        "static/media/musicapp.png": "static/media/musicapp.0af4b611fed1422b583f.png",
+        "static/media/boy.png": "static/media/boy.7ae468afb708751c42c9.png",
+        "static/media/glassesimoji.png": "static/media/glassesimoji.7fb2863d8683b4eef41e.png",
+        "static/media/glasses.png": "static/media/glasses.813625034b3948b55906.png",
+        "static/media/Vector2.png": "static/media/Vector2.164c3dfc1b4742b82964.png",
+        "static/media/Shopify.png": "static/media/Shopify.2d7b659cced2550d0447.png",
+        "static/media/thumbup.png": "static/media/thumbup.b49235be2f97b4b547c9.png",
+        "static/media/Facebook.png": "static/media/Facebook.8bae8fefba1fe8b1a534.png",
+        "static/media/Vector1.png": "static/media/Vector1.3f77f0a50259f4e3f147.png",
+        "static/media/heartemoji.png": "static/media/heartemoji.915c3a2fb411ec71bc96.png",
+        "static/media/humble.png": "static/media/humble.409a72df21b227d6a7c9.png",
+        "static/media/Upwork.png": "static/media/Upwork.7c9951d000d0aa646820.png",
+        "static/media/logo.png": "static/media/logo.e87134e22957d4531ae2.png",
+        "index.html": "index.html",
+        "main.39407335.css.map": "static/css/main.39407335.css.map",
+        "main.e23979db.js.map": "static/js/main.e23979db.js.map"
+    },
+    "entrypoints": [
+        "static/css/main.39407335.css",
+        "static/js/main.e23979db.js"
+    ]
+}
